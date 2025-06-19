@@ -1,0 +1,33 @@
+# Arquivos compilados Java
+*.class
+
+# Diretórios e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Pastas do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Pastas do VSCode
+.vscode/
+
+# Pastas e arquivos de build (caso use alguma build tool)
+bin/
+build/
+
+# Arquivos gerados pelo Java
+*.jar
+*.war
+*.ear
+
+# Arquivos de configuração local
+*.iml
+
+# Logs do sistema
+hs_err_pid*
+
+# Configuração do workspace VSCode (se não quiser versionar)
+*.code-workspace
+
